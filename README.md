@@ -1,6 +1,6 @@
 回到顶部插件
 学习进步
-<script type="text/javascript">
+```javascript
 		$.scrollUpTest({
 			scrollName : "scrollUp", //回到顶部的节点名称
 			scrollDistance : 300,  //顶部和出现按钮的距离
@@ -13,4 +13,4 @@
 			scrollZindex:10000,
 			scrollTarget:0 // 回到顶部的高度
 		});
-</script>
+```
